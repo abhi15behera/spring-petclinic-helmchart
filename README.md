@@ -1,3 +1,3 @@
-# spring-petclinic Helm Chart !!
+# spring-petclinic Helm Chart
 
 
